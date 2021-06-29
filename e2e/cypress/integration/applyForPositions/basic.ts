@@ -67,7 +67,6 @@ describe("Apply for Job Opportunity in iodine", () => {
       viewPage.enterTextArea(1, cd[0].visa);
       viewPage.enterTextArea(2, cd[0].gpa);
       viewPage.enterTextArea(3, cd[0].oppor);
-
     })
 
   })
@@ -77,7 +76,6 @@ describe("Apply for Job Opportunity in iodine", () => {
   })
   it('System navigates back to previous page', () => {
     viewPage.verifyPage();
-
   })
 
 
