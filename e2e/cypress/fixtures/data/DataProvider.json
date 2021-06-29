@@ -1,0 +1,26 @@
+[{
+        "menu" :"Company",
+        "subMenu" : "Careers",
+        "url" : "https://iodinesoftware.com/",
+        "firstName":"testFirstName",
+        "lastName":"testLastName",
+        "opportunity":"Software Development Engineer in Test",
+        "email":"test@gmail.com",
+        "phone":"878474747477",
+        "streetAddress":"testaddress",
+        "city":"chennai",
+        "state":"TN",
+        "zip":"600028",
+        "country":"India",
+        "dateAvailable":"02/05/2021",
+        "desiredPay":"2000000",
+        "heo":"High School",
+        "referredBy":"friend",
+        "authorize":"yes",
+        "visa":"yes",
+        "gpa":"8.9",
+        "oppor":"friend"
+
+
+    }
+]
